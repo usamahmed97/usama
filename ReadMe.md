@@ -1,7 +1,7 @@
 <div align="center">
 <h1> Hi There, I'm Usama Ahmed. Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
 </br>
-I'm a Full Stack Developer based in Lahore, Pakistan with 2+ years of hands-on experience in JavaScript, React JS, Node JS, and AWS. I love designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm a Full Stack Developer based in Lahore, Pakistan with 3+ years of hands-on experience in JavaScript, React JS, Node JS, Python, R, and AWS. I love designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
 
 Well, folks, I've made a decision that will change the course of history - or at least the course of my Github management. You see, I've been using my <a href="https://github.com/usamaahmed97">official Github account</a> for all my major projects, but I've come to the realization that my <a href="https://github.com/usamahmed97">personal account</a> is where the real magic should happen. I should have known better, but hey, hindsight is 20/20, am I right? So, farewell old account, and helloooooo personal account! It's time to show the world all the work I've been doing and will continue to do!

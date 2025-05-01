@@ -1,100 +1,78 @@
 <div align="center">
-<h1> Hi There, I'm Usama Ahmed. Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
-</br>
-I'm a Full Stack Developer based in Lahore, Pakistan with 3+ years of hands-on experience in JavaScript, React JS, Node JS, Python, R, and AWS. I love designing, developing and implementing applications and solutions using a range of technologies and programming languages.
-<br />
 
-Well, folks, I've made a decision that will change the course of history - or at least the course of my Github management. You see, I've been using my <a href="https://github.com/usamaahmed97">official Github account</a> for all my major projects, but I've come to the realization that my <a href="https://github.com/usamahmed97">personal account</a> is where the real magic should happen. I should have known better, but hey, hindsight is 20/20, am I right? So, farewell old account, and helloooooo personal account! It's time to show the world all the work I've been doing and will continue to do!
+# 👋 Hi, I'm Usama Ahmed  
+### Full Stack Developer and Data Scientist | JavaScript | React | Node.js | Python | R
 
-<div>
-
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-
-  <h4> Languages </h4>
-<span>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black">
-</span>
-
-<h4> Libraries and Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Node-A020F0?style=for-the-badge&logo=javascript&logoColor=blue">
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind-87CEEB?style=for-the-badge&logo=tailwind&logoColor=black">
-  <img src="https://img.shields.io/badge/AntDesign-90EE90?style=for-the-badge&logo=antdesign&logoColor=red">
-    <img src="https://img.shields.io/badge/MaterialUI-FFCCCB?style=for-the-badge&logo=materialui&logoColor=black">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</span>
-
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/postgresql-00000F?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/DynamoDB-07405E?style=for-the-badge&logo=dynamodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-</span>
-
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Atom-00FF00?style=for-the-badge&logo=Atom&logoColor=white">
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-
-<h4> Operating System </h4>
-<span>
-  <img src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=Apple&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</span>
-
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/swagger-F05032?style=for-the-badge&logo=swagger&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-5E5C5C?style=for-the-badge&logo=redis&logoColor=white">
-</span>
- 
-<br />
+🇬🇧 Based in Manchester, United Kingdom  
+💼 Passionate about building clean, scalable, and user-focused web applications  
 
 </div>
 
-## Official Account Work <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+---
 
-</br>
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=usamaahmed97&include_all_commits=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="usama-ahmed-github">
+## 🔧 About Me
 
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaahmed97&layout=compact&theme=dark&bg_color=0A0A0A&line_height=30" alt="top-languages"/>
+I’m a Full Stack Developer and Data Scientist with 3+ years of professional experience in developing robust web applications using JavaScript, React.js, Node.js, and PostgreSQL. I’ve worked across both frontend and backend, contributing to high-impact projects for startups and product teams.
 
-## Personal Account (Active) <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+As a Data Scientist, I've performed in-depth analysis and built machine learning models as part of my Master’s dissertation on Aspect-Based Sentiment Analysis and Aspect-Based Product Recommendation in e-commerce.
 
-  </br>
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=usamahmed97&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Usama Ahmed Github Stats">
-  
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamahmed97&layout=compact&theme=dark&bg_color=0A0A0A" alt="Usama Ahmed Top Languages"/>
+My approach to development is grounded in writing maintainable, clean code, and building applications that offer strong user experiences. I enjoy collaborating with cross-functional teams and continuously improving both product and process.
 
-## Connect with me! <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+---
 
-</br>
-<a href="https://linkedin.com/in/usamaahmed97" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/usamaahmed97" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+## 🛠️ Tech Stack
 
- </div>
-  </div>
-  </div>
-  </div>
+### Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+### Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+
+
+### Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+### Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+---
+
+## 📁 Featured Projects
+
+### 🔹 Halcyon & Partners  
+**Tech:** React.js, Node.js, PostgreSQL  
+Built an interactive online exhibition platform with multi-user roles and seamless collaboration features.
+
+### 🔹 TN-VISA Platform  
+**Tech:** React.js, Node.js, AWS (DynamoDB, S3)  
+Developed a web-based workflow automation system for DS-160 visa processing for Canadian and Mexican users.
+
+### 🔹 Rate Freight Brokers
+**Tech:** React JS, Node JS, AWS Amplify
+Developed a role-based platform with real-time FMCSA API integration, increasing data accuracy and improving broker-driver collaboration.
+
+### 🔹 Skool’d  
+**Tech:** React.js, Node.js, AWS (DynamoDB, S3)  
+Built a multi-role platform that enabled teachers to register, create profiles, and list subject expertise; allowed students and parents to browse and schedule classes via Google Calendar integration, with Stripe Connect handling session subscriptions.
+
+### 🔹 Aspect-Based Sentiment Analysis & Aspect-Based E-Commerce Product Recommendation (Master's Dissertation at University of Salford)
+**Tech:** Python, Scikit-learn, NLTK, Pandas, Transformers, HuggingFace 
+Designed and implemented a machine learning pipeline to identify product review aspects and rank products based on the selected aspects. Applied NLP techniques for feature extraction and sentiment classification; improved recommendation insights by filtering out selected aspect sentiment scores.
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usamaahmed97)  
+
+---
+
